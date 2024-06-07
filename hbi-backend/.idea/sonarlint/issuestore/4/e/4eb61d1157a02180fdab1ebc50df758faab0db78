@@ -1,0 +1,15 @@
+
+€
+java:S2184"CCast one of the operands of this subtraction operation to a "long".(ÇÒ•›J$4f596ed8-8e9b-4683-9790-7ec00368ed5d
+‰
+java:S1192ö"GDefine a constant instead of duplicating this literal "postId" 4 times.(ÚˆÂŒşÿÿÿÿJ$3095e6a2-b100-43ef-ac0a-f38e17cd2e88
+‡
+java:S1192s"FDefine a constant instead of duplicating this literal "title" 4 times.(‡²¾ÃøÿÿÿÿJ$9cd667ab-fc6f-4608-9818-6cb92f58313e
+ˆ
+java:S1192~"GDefine a constant instead of duplicating this literal "userId" 6 times.(üàÕÆúÿÿÿÿJ$4000f7d7-392f-4b15-8f26-50fac0e00cd0
+‰
+java:S1192s"HDefine a constant instead of duplicating this literal "content" 4 times.(‡²¾ÃøÿÿÿÿJ$6ed31ff6-e094-4ebf-b84a-6b58b6eab98f
+
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ôÄªñJ$54fbe30c-0bd8-4d9f-81c0-97d49aebea5b
+ƒ
+java:S6541…"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 83 to 64, Complexity from 15 to 14, Nesting Level from 4 to 2, Number of Variables from 29 to 6.(ôÄªñJ$6d5750c5-7b15-436e-9653-0fcd7713e175
